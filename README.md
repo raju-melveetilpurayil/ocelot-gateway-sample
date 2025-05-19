@@ -1,4 +1,4 @@
-# .NET Microservices with Ocelot API Gateway
+# .NET Microservices with Ocelot API Gateway - Implement API Gateways with Ocelot
 
 This project demonstrates a simple microservices architecture using **ASP.NET Core** and **Ocelot** as an **API Gateway**. It includes:
 
